@@ -5,6 +5,7 @@ permalink: /cheatsheets/
 ---
 
 # Tools
+
 | Link | Description |
 | ---- | ---- |
 | [Nmap Cheatsheet](https://github.com/jasonniebauer/Nmap-Cheatsheet) | Reference guide for scanning networks with Nmap.|
@@ -17,6 +18,7 @@ permalink: /cheatsheets/
  
 
 # Exploitation
+
 | Link | Description |
 | ---- | ---- |
 | [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming?fbclid=IwAR0YL9eF-A61k2e9pP70VBgMrq7amDA6fwftdPxWcuP02URhv6tKxH8tJVI) | Awesome Red Teaming, list of resources |
@@ -27,6 +29,7 @@ permalink: /cheatsheets/
 
 
 # Programming
+
 | Link | Description |
 | ---- | ---- |
 | [RegEx](https://www.rexegg.com/regex-quickstart.html) | RegEx Cheat Sheet |
@@ -40,6 +43,7 @@ permalink: /cheatsheets/
 
 
 # Databases
+
 | Link | Description |
 | ---- | ---- |
 | [SQL](https://www.sqltutorial.org/sql-cheat-sheet/) | SQL Cheat Sheet |
@@ -48,7 +52,8 @@ permalink: /cheatsheets/
 | [MongoDB](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6) | MongoDB Cheat Sheet |
 
 
-# Cloud 
+# Cloud
+
 | Link | Description |
 | ---- | ---- |
 | [AWS](https://tutorialsdojo.com/aws-cheat-sheets/) | AWS Cheat Sheet |
