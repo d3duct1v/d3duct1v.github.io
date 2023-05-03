@@ -10,9 +10,9 @@ title: D3duct1V's Blog
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/ed_icon.jpg
+lightavatar: /assets/images/ed_icon.png
 # Avatar for dark mode site
-darkavatar: /assets/images/ed_icon_dark.jpg
+darkavatar: /assets/images/ed_icon.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
 tagline: A collection of cyber walkthroughs and cheat sheets.
@@ -33,7 +33,7 @@ baseurl: ""
 author: D3duct1V
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
-logo: /assets/images/ed_icon.jpg
+logo: /assets/images/ed_icon.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
